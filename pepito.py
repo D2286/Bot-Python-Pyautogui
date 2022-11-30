@@ -6,6 +6,8 @@ from functions import precopy, inicio
 
 # Función y prompt princial
 
+#prueba haciendo merge git
+
 
 inicio()
 revision = main.confirm('REVISION', buttons=['OK', 'CANCELAR'])
